@@ -15,6 +15,8 @@
            <label>Password</label>
            <asp:Textbox runat="server" ID="Pass" TextMode="Password"></asp:Textbox>
            <asp:Button runat="server" ID="btnLogin" OnClick="btnLogin_Click" Text="Login" />
+          <h1>Thanks</h1>
+          <h1>FAQ</h1>
     </div>
     </form>
 </body>
