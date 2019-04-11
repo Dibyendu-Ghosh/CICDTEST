@@ -3,3 +3,8 @@ D:\code\cicdtest\cicdtest\bin\cicdtest.dll
 D:\code\cicdtest\cicdtest\bin\cicdtest.pdb
 D:\code\cicdtest\cicdtest\obj\Debug\cicdtest.dll
 D:\code\cicdtest\cicdtest\obj\Debug\cicdtest.pdb
+D:\code\gitcicdtest\CICDTEST\cicdtest\bin\cicdtest.dll
+D:\code\gitcicdtest\CICDTEST\cicdtest\bin\cicdtest.pdb
+D:\code\gitcicdtest\CICDTEST\cicdtest\obj\Debug\cicdtest.csprojResolveAssemblyReference.cache
+D:\code\gitcicdtest\CICDTEST\cicdtest\obj\Debug\cicdtest.dll
+D:\code\gitcicdtest\CICDTEST\cicdtest\obj\Debug\cicdtest.pdb
