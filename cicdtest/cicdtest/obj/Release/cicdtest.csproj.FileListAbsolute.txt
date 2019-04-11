@@ -1,0 +1,5 @@
+D:\code\cicdtest\cicdtest\bin\cicdtest.dll.config
+D:\code\cicdtest\cicdtest\bin\cicdtest.dll
+D:\code\cicdtest\cicdtest\bin\cicdtest.pdb
+D:\code\cicdtest\cicdtest\obj\Release\cicdtest.dll
+D:\code\cicdtest\cicdtest\obj\Release\cicdtest.pdb
